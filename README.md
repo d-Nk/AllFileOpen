@@ -10,10 +10,12 @@ Open files and run commands, by this command.
 
 ## Extension Settings
 Set a target extension and run commands.
+
 | Setting | Default | Note |
 |:------- |:----- |:----- |
 |`"allfileopen.extensionFileSearch"`| `"txt"` | Set the extension by string |
 |`"allfileopen.runcommands"`| `[]` | Set run commands | 
+
 
 ## License
 [MIT](LICENSE)
